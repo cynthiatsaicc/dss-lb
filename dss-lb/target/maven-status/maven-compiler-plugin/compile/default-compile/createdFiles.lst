@@ -1,0 +1,8 @@
+com/google/chat/bot/basic/LinkedInSample.class
+com/google/chat/bot/basic/LinkedInUrl.class
+com/google/chat/bot/basic/BotServlet$Event.class
+com/google/chat/bot/basic/Person.class
+com/google/chat/bot/basic/PersonFeed.class
+com/google/chat/bot/basic/OAuth2ClientCredentials.class
+com/google/chat/bot/basic/BotServlet.class
+com/google/chat/bot/basic/LinkedInSample$1.class
